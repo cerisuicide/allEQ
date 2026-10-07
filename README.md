@@ -17,6 +17,10 @@
 
 </div>
 
+> **JMGO TV fork:** branch `jmgo-tv` keeps the DSP service alive on the JMGO
+> S901 projector, starts it after boot, and uses the firmware's fixed background
+> allowlist package id. The upstream Android audio engine and UI remain intact.
+
 > **Telegram Community:** Join discussions, beta testing, and presets sharing in our official Telegram chat — [**@allEQoff**](https://t.me/allEQoff).
 
 ---

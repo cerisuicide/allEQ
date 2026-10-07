@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">allEQ</string>
+    <string name="app_name">电影音量 · allEQ</string>
     
     <!-- Devices -->
     <string name="device_speaker">built-in speaker</string>

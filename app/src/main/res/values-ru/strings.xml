@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">allEQ</string>
+    <string name="app_name">Movie Audio · allEQ</string>
     
     <!-- Devices -->
     <string name="device_speaker">встроенные динамики</string>

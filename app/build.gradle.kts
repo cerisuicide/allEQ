@@ -17,11 +17,13 @@ android {
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.omix.alleq"
+        // JMGO S901 firmware only preserves background audio services whose
+        // package id is present in its fixed middleware allowlist.
+        applicationId = "com.bajintech.assistant"
         minSdk = 29
         targetSdk = 35
-        versionCode = 1
-        versionName = "1.0-alpha"
+        versionCode = 1001
+        versionName = "1.0-alpha-jmgo.1"
 
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
     }
