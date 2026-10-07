@@ -17,7 +17,8 @@
 
 </div>
 
-> **JMGO TV fork:** branch `jmgo-tv` keeps the DSP service alive on the JMGO
+> **JMGO TV fork:** [`cerisuicide/allEQ`](https://github.com/cerisuicide/allEQ)
+> branch `jmgo-tv` keeps the DSP service alive on the JMGO
 > S901 projector, starts it after boot, and uses the firmware's fixed background
 > allowlist package id. The upstream Android audio engine and UI remain intact.
 

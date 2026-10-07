@@ -3,6 +3,9 @@
 This fork adapts upstream `omixin/allEQ` for the JMGO S901 projector connected
 to a XiaoAI Speaker Pro.
 
+- Maintained fork: `cerisuicide/allEQ`
+- Upstream: `omixin/allEQ`
+
 ## Device contract
 
 - Projector: JMGO S901, Android 11, `armeabi-v7a`
